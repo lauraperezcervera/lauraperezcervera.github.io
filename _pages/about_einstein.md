@@ -5,3 +5,5 @@ Welcome!
 I am an applied microeconomist with research interests in political economy and its intersections with development and media economics.
 
 My research explores the political consequences of affirmative action policies, strategies to address disparities in political representation, and how political incentives influence the provision of public goods.
+
+You can find my CV [here](https://lauraperezcervera.weebly.com/uploads/1/4/3/0/143051268/lperezcervera_cv.pdf).
