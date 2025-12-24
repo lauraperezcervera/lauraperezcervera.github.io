@@ -28,8 +28,6 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Welcome!
-
 ​​I am an Assistant Professor (Professor Lector) in the Department of Economics at Universitat Rovira i Virgili. I hold a PhD in Economics from Queen Mary University of London since 2025.
 
 I am an applied microeconomist with research interests in political economy and its intersections with development and media economics.
