@@ -6,7 +6,7 @@ subtitle: ""
 
 profile:
   align: right
-  image: "assets/img/LPerezCervera_Foto.jpg"
+  image: "/assets/img/LPerezCervera_Foto.jpg"
   image_circular: false
   more_info: >
     Facultat d’Economia i Empresa
