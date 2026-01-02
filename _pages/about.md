@@ -6,7 +6,7 @@ subtitle:
 
 profile:
   align: right
-  image: # prof_pic.jpg
+  image: LPerezCervera_Foto.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
     Facultat d’Economia i Empresa
