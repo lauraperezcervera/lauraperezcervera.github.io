@@ -35,4 +35,4 @@ I am an applied microeconomist with research interests in political economy and 
 My research explores the political consequences of affirmative action policies, strategies to address disparities in political representation, and how political incentives influence the provision of public goods.
 
 You can find my CV [here](/assets/pdf/LPerezCervera_CV.pdf).<br>
-Email: [laura.perezc@urv.cat](laura.perezc@urv.cat)
+Email: [laura.perezc@urv.cat](mailto:laura.perezc@urv.cat)
