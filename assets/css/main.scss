@@ -28,3 +28,7 @@ $max-content-width: {{ site.max_width }};
 .profile .more-info {
   font-family: inherit;
 }
+/*Reduce size social media icons*/
+.social .contact-icons {
+  font-size: 3rem;
+}
