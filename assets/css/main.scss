@@ -36,3 +36,9 @@ $max-content-width: {{ site.max_width }};
 body.fixed-top-nav {
   padding-top: 45px;
 }
+/*Move profile pic up*/
+@media (min-width: 576px) {
+  .profile img {
+    margin-top: -55px;
+  }
+}
