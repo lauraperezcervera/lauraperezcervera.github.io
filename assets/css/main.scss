@@ -32,3 +32,7 @@ $max-content-width: {{ site.max_width }};
 .social .contact-icons {
   font-size: 3rem;
 }
+/*Reduce space at the top of all pages*/
+body.fixed-top-nav {
+  padding-top: 45px;
+}
