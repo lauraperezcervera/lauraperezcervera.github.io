@@ -23,3 +23,8 @@ $max-content-width: {{ site.max_width }};
   "tabler-icons/tabler-icons-filled.scss",
   "tabler-icons/tabler-icons-outline.scss"
 ;
+
+/* Give the address the same font as the rest of the page */
+.profile .more-info {
+  font-family: inherit;
+}
