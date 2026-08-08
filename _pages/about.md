@@ -9,9 +9,8 @@ profile:
   image: "LPerezCervera_Foto.jpg"
   image_circular: false
   more_info: >
-    Departament d'Economia<br>
-    Facultat d’Economia i Empresa<br>
-    Universitat Rovira i Virgili<br>
+    **Departament d'Economia**<br>
+    **Universitat Rovira i Virgili**<br>
     Avda. Universitat, 1<br>
     43204 Reus, Spain<br>
 
