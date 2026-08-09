@@ -42,3 +42,7 @@ body.fixed-top-nav {
     margin-top: -55px;
   }
 }
+%Remove year watermark in research page
+.publications h2.bibliography {
+  display: none;
+}
