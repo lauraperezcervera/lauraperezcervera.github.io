@@ -27,6 +27,7 @@ $max-content-width: {{ site.max_width }};
 /* Give the address the same font as the rest of the page */
 .profile .more-info {
   font-family: inherit;
+  text-align: center;
 }
 /*Reduce size social media icons*/
 .social .contact-icons {
